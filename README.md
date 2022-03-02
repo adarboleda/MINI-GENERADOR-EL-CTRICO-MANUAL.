@@ -4,9 +4,14 @@
 
 Objetivo General:
 
+* Construiur un minigenerador eléctrico manual para el encendido de dos LEDS.
+
 Objetivos Específicos:  
 
+
 2. MATERIAL Y EQUIPO REQUERIDO
+
+![image](https://user-images.githubusercontent.com/93734334/156436137-a7d3a72c-1ce6-4def-9f35-6c165da4983b.png)
 
 3. MARCO TEÓRICO 
 
