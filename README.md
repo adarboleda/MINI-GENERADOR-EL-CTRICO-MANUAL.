@@ -25,6 +25,9 @@ Objetivos Específicos:
 
 7. BIBLIOGRAFÍA
 
+Foro Nuclear. (2022). *¿Qué es un generador eléctrico?*. https://www.rinconeducativo.org/es/recursos-educativos/que-es-un-generador-electrico
+
+Proyectatumente. (17 de septiembre de 2014). *Como Hacer un Generador Eléctrico Casero* (Energía gratis) [Archivo de Vídeo].Youtube. https://www.youtube.com/watch?v=lueZ_a2o8Pc
 
 RUBRICA
 
