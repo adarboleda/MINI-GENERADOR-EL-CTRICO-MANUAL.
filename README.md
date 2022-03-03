@@ -49,6 +49,10 @@ Para poner en funcionamiento el generador, se va a usar dos LEDS los cuales van 
 
 Finalmente para poner en funcionamiento el generador lo que se hace es mover la polea usando la manecilla y aumentando la velocidad hasta que se prendan los LEDS, cabe mencionar que dependiedno el sentido al que se gire se prendera un led diferente, si se gira ens entido horario se prendera el LED amarillo y si se gira en sentido antihorario se prendera el LED azul.
 
+**¿Como funciona un generador electrico manual?**
+
+Cuando dentro de un campo magnético se tiene una espira por donde circula una corriente eléctrica, aparecen un par de fuerzas que provocan que la espira gire alrededor de su eje. De igual forma, si dentro de un campo magnético se introduce una espira y se la hace girar, se provocara la corriente inducida.
+
 5. VIDEO
 
 6. CONCLUSIONES
