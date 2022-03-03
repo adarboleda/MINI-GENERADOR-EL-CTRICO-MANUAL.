@@ -55,7 +55,10 @@ Cuando dentro de un campo magnético se tiene una espira por donde circula una c
 
 5. VIDEO
 
+https://youtu.be/7Zul0u4oHjk
+
 6. CONCLUSIONES
+
 
 7. BIBLIOGRAFÍA
 
