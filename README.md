@@ -8,7 +8,8 @@ Objetivo General:
 
 Objetivos Específicos:  
 
-*
+* Conocer como funciona un generador eléctrico manual mediante la realización de un minigenerador eléctrico manual.
+* 
 
 2. MATERIAL Y EQUIPO REQUERIDO
 
